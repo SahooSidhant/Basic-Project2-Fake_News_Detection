@@ -100,13 +100,10 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
         * Multi-language support
 
 
-
-<br><br/>
 <h2>👨‍💻 Author</h2>
 
 <h3>Sidhanta Sahoo</h3>
 
-<br><br/>
 <h2>📜 License</h2>
 
 <h3>This project is open-source and free to use.</h3>
