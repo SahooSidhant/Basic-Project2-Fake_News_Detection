@@ -1,14 +1,14 @@
 
-<h1>📌 **Fake News Detection Using Machine Learning**</h1>
+<br><h1>📌 **Fake News Detection Using Machine Learning**</h1><br/>
 
 
-📰 <h2>**Overview**</h2>
+<h2>📰 **Overview**</h2>
 
 The Fake News Detection System is a machine learning web app that classifies news articles as REAL or FAKE using NLP techniques. It uses a TF-IDF vectorizer for feature extraction and a Linear SVM model for classification. The model is trained on labeled news data and deployed using Streamlit for real-time user interaction.
 
 The project demonstrates end-to-end implementation of text preprocessing, feature engineering, model training, and deployment in a simple and interactive UI.
 
-
+<br><br/>
 
 <h1>🚀 **Live Demo**</h1>
 
