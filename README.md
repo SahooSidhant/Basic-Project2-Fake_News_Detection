@@ -1,3 +1,4 @@
+
 📌 Fake News Detection Using Machine Learning
 📰 Overview
 
@@ -15,7 +16,7 @@ It classifies news articles as REAL or FAKE based on textual patterns
 
 📸 Screenshots
 🟢 Real News Prediction
-
+<img width="1918" height="966" alt="Screenshot 2026-06-18 133607" src="https://github.com/user-attachments/assets/63c10528-6b64-4e2b-a240-5ca51fba4d41" />
 
 
 
