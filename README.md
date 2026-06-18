@@ -15,7 +15,9 @@ It classifies news articles as REAL or FAKE based on textual patterns
 
 
 📸 Screenshots
+
 🟢 Real News Prediction
+
 <img width="1918" height="966" alt="Screenshot 2026-06-18 133607" src="https://github.com/user-attachments/assets/63c10528-6b64-4e2b-a240-5ca51fba4d41" />
 
 
@@ -23,6 +25,8 @@ It classifies news articles as REAL or FAKE based on textual patterns
 
 🔴 Fake News Prediction
 
+
+<img width="1917" height="966" alt="Screenshot 2026-06-18 141928" src="https://github.com/user-attachments/assets/d21ba11e-13f8-4fec-8035-4c8d1bf3f694" />
 
 
 
