@@ -1,5 +1,5 @@
 
-📌 <h1>**Fake News Detection Using Machine Learning**</h1>
+<h1>📌 **Fake News Detection Using Machine Learning**</h1>
 
 
 📰 <h2>**Overview**</h2>
@@ -10,7 +10,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-🚀 <h1>**Live Demo**</h1>
+<h1>🚀 **Live Demo**</h1>
 
 
 👉 https://fakenewsdetectionbysidhant.streamlit.app/
@@ -18,24 +18,24 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-📸 **Screenshots**
+<h1>📸 **Screenshots**</h1>
 
 
-🟢 Real News Prediction
+<h2>🟢 Real News Prediction</h2>
 
 <img width="1918" height="966" alt="Screenshot 2026-06-18 133607" src="https://github.com/user-attachments/assets/63c10528-6b64-4e2b-a240-5ca51fba4d41" />
 
 
 
 
-🔴 Fake News Prediction
+<h2>🔴 Fake News Prediction</h2>
 
 
 <img width="1917" height="966" alt="Screenshot 2026-06-18 141928" src="https://github.com/user-attachments/assets/d21ba11e-13f8-4fec-8035-4c8d1bf3f694" />
 
 
 
-🧠 **How It Works**
+<h1>🧠 **How It Works**</h1>
 
         1. Input news article text
         2. Text is cleaned and preprocessed
@@ -45,7 +45,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
             ---FAKE
 
 
-⚙️ **Tech Stack**
+<h1>⚙️ **Tech Stack**</h1>
 
         Python 🐍
         Streamlit 🎈
@@ -56,7 +56,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-📂 **Project Structure**
+<h1>📂 **Project Structure**</h1>
 
         Fake-News-Detection/
         ├── data
@@ -71,7 +71,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
         └── README.md
 
 
-📊 **Model Details**
+<h1>📊 **Model Details**</h1>
 
         Algorithm: Linear Support Vector Machine (SVM)
         Feature Extraction: TF-IDF (with unigrams + bigrams)
@@ -81,7 +81,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-🎯 **Features**
+<h1>🎯 **Features**</h1>
 
         Real-time prediction
         Clean UI with Streamlit
@@ -92,7 +92,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-📈 **Future Improvements**
+<h1>📈 **Future Improvements**</h1>
         
         Add deep learning (BERT model)
         Show confidence score (%)
@@ -102,11 +102,11 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-👨‍💻 Author
+<h1>👨‍💻 Author</h1>
 
-Sidhanta Sahoo
+<h2>Sidhanta Sahoo</h2>
 
 
-📜 License
+<h1>📜 License</h1>
 
-This project is open-source and free to use.
+<h3>This project is open-source and free to use.</h3>
