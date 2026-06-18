@@ -1,5 +1,5 @@
 
-<br><h1>📌 **Fake News Detection Using Machine Learning**</h1><br/>
+<h1>📌 **Fake News Detection Using Machine Learning**</h1>
 
 
 <h2>📰 **Overview**</h2>
@@ -15,7 +15,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 👉 https://fakenewsdetectionbysidhant.streamlit.app/
 
-
+<br><br/>
 
 
 <h1>📸 **Screenshots**</h1>
@@ -33,7 +33,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 <img width="1917" height="966" alt="Screenshot 2026-06-18 141928" src="https://github.com/user-attachments/assets/d21ba11e-13f8-4fec-8035-4c8d1bf3f694" />
 
-
+<br><br/>
 
 <h1>🧠 **How It Works**</h1>
 
@@ -43,7 +43,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
         4. Linear SVM model predicts:
             ---REAL
             ---FAKE
-
+<br><br/>
 
 <h1>⚙️ **Tech Stack**</h1>
 
@@ -54,7 +54,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
         Joblib 🧩
         NLP (TF-IDF)
 
-
+<br><br/>
 
 <h1>📂 **Project Structure**</h1>
 
@@ -70,7 +70,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
         ├── requirements.txt
         └── README.md
 
-
+<br><br/>
 <h1>📊 **Model Details**</h1>
 
         Algorithm: Linear Support Vector Machine (SVM)
@@ -79,7 +79,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
         Output: Binary classification (FAKE / REAL)
 
 
-
+<br><br/>
 
 <h1>🎯 **Features**</h1>
 
@@ -91,7 +91,7 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
-
+<br><br/>
 <h1>📈 **Future Improvements**</h1>
         
         Add deep learning (BERT model)
@@ -101,12 +101,12 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 
 
+<br><br/>
+<h2>👨‍💻 Author</h2>
 
-<h1>👨‍💻 Author</h1>
+<h3>Sidhanta Sahoo</h3>
 
-<h2>Sidhanta Sahoo</h2>
-
-
-<h1>📜 License</h1>
+<br><br/>
+<h2>📜 License</h2>
 
 <h3>This project is open-source and free to use.</h3>
