@@ -2,7 +2,7 @@
 📌 **Fake News Detection Using Machine Learning**
 
 
-        📰 **Overview**
+📰 **Overview**
 
 This project is a Fake News Detection Web App built using Machine Learning (Linear SVM + TF-IDF) and deployed using Streamlit.
 It classifies news articles as REAL or FAKE based on textual patterns
