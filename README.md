@@ -2,7 +2,7 @@
 <h1>📌 **Fake News Detection Using Machine Learning**</h1>
 
 
-<h2>📰 **Overview**</h2>
+<h2>📰 Overview</h2>
 
 The Fake News Detection System is a machine learning web app that classifies news articles as REAL or FAKE using NLP techniques. It uses a TF-IDF vectorizer for feature extraction and a Linear SVM model for classification. The model is trained on labeled news data and deployed using Streamlit for real-time user interaction.
 
@@ -47,12 +47,12 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 
 <h1>⚙️ **Tech Stack**</h1>
 
-        Python 🐍
-        Streamlit 🎈
-        Scikit-learn 🤖
-        Pandas & NumPy 📊
-        Joblib 🧩
-        NLP (TF-IDF)
+        * Python 🐍
+        * Streamlit 🎈
+        * Scikit-learn 🤖
+        * Pandas & NumPy 📊
+        * Joblib 🧩
+        * NLP (TF-IDF)
 
 <br><br/>
 
@@ -73,31 +73,31 @@ The project demonstrates end-to-end implementation of text preprocessing, featur
 <br><br/>
 <h1>📊 **Model Details**</h1>
 
-        Algorithm: Linear Support Vector Machine (SVM)
-        Feature Extraction: TF-IDF (with unigrams + bigrams)
-        Preprocessing: Lowercasing, stopword removal, noise cleaning
-        Output: Binary classification (FAKE / REAL)
+        - Algorithm: Linear Support Vector Machine (SVM)
+        - Feature Extraction: TF-IDF (with unigrams + bigrams)
+        - Preprocessing: Lowercasing, stopword removal, noise cleaning
+        - Output: Binary classification (FAKE / REAL)
 
 
 <br><br/>
 
 <h1>🎯 **Features**</h1>
 
-        Real-time prediction
-        Clean UI with Streamlit
-        Dark-themed newspaper design
-        Instant analysis of news text
-        Simple and fast ML pipeline
+        - Real-time prediction
+        - Clean UI with Streamlit
+        - Dark-themed newspaper design
+        - Instant analysis of news text
+        - Simple and fast ML pipeline
 
 
 
 <br><br/>
 <h1>📈 **Future Improvements**</h1>
         
-        Add deep learning (BERT model)
-        Show confidence score (%)
-        Highlight fake words in text
-        Multi-language support
+        * Add deep learning (BERT model)
+        * Show confidence score (%)
+        * Highlight fake words in text
+        * Multi-language support
 
 
 
