@@ -42,7 +42,8 @@ It classifies news articles as REAL or FAKE based on textual patterns
             ---FAKE
 
 
-⚙️ Tech Stack
+⚙️ **Tech Stack**
+
         Python 🐍
         Streamlit 🎈
         Scikit-learn 🤖
@@ -52,45 +53,48 @@ It classifies news articles as REAL or FAKE based on textual patterns
 
 
 
-📂 Project Structure
+📂 **Project Structure**
 
-Fake-News-Detection/
-├── data
-│   ├── Fake.csv
-│   └── Teal.csv
-├── app.py
-├── models/
-│   ├── linear_svm_model.pkl
-│   └── tfidf_vectorizer.pkl
-├── background.jpg
-├── requirements.txt
-└── README.md
-
-
-📊 Model Details
-Algorithm: Linear Support Vector Machine (SVM)
-Feature Extraction: TF-IDF (with unigrams + bigrams)
-Preprocessing: Lowercasing, stopword removal, noise cleaning
-Output: Binary classification (FAKE / REAL)
+        Fake-News-Detection/
+        ├── data
+        │   ├── Fake.csv
+        │   └── Teal.csv
+        ├── app.py
+        ├── models/
+        │   ├── linear_svm_model.pkl
+        │   └── tfidf_vectorizer.pkl
+        ├── background.jpg
+        ├── requirements.txt
+        └── README.md
 
 
+📊 **Model Details**
 
-
-🎯 Features
-Real-time prediction
-Clean UI with Streamlit
-Dark-themed newspaper design
-Instant analysis of news text
-Simple and fast ML pipeline
+        Algorithm: Linear Support Vector Machine (SVM)
+        Feature Extraction: TF-IDF (with unigrams + bigrams)
+        Preprocessing: Lowercasing, stopword removal, noise cleaning
+        Output: Binary classification (FAKE / REAL)
 
 
 
 
-📈 Future Improvements
-Add deep learning (BERT model)
-Show confidence score (%)
-Highlight fake words in text
-Multi-language support
+🎯 **Features**
+
+        Real-time prediction
+        Clean UI with Streamlit
+        Dark-themed newspaper design
+        Instant analysis of news text
+        Simple and fast ML pipeline
+
+
+
+
+📈 **Future Improvements**
+        
+        Add deep learning (BERT model)
+        Show confidence score (%)
+        Highlight fake words in text
+        Multi-language support
 
 
 
